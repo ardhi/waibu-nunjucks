@@ -1,0 +1,34 @@
+{
+  "name": "wakatobi-nunjucks",
+  "version": "1.0.0",
+  "description": "Nunjucks support for Wakatobi MPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/wakatobi-nunjucks.git"
+  },
+  "keywords": [
+    "nunjucks",
+    "view-engine",
+    "view",
+    "web",
+    "webserver",
+    "bajo",
+    "framework",
+    "fastify",
+    "modular"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/wakatobi-nunjucks/issues"
+  },
+  "homepage": "https://github.com/ardhi/wakatobi-nunjucks#readme",
+  "dependencies": {
+    "nunjucks": "^3.2.4"
+  }
+}
