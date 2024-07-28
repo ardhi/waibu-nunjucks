@@ -1,7 +1,7 @@
 {
-  "name": "wakatobi-nunjucks",
+  "name": "waibu-nunjucks",
   "version": "1.0.0",
-  "description": "Nunjucks support for Wakatobi MPA",
+  "description": "Nunjucks support for Waibu MPA",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ardhi/wakatobi-nunjucks.git"
+    "url": "git+https://github.com/ardhi/waibu-nunjucks.git"
   },
   "keywords": [
     "nunjucks",
@@ -25,9 +25,9 @@
   "author": "Ardhi Lukianto <ardhi@lukianto.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ardhi/wakatobi-nunjucks/issues"
+    "url": "https://github.com/ardhi/waibu-nunjucks/issues"
   },
-  "homepage": "https://github.com/ardhi/wakatobi-nunjucks#readme",
+  "homepage": "https://github.com/ardhi/waibu-nunjucks#readme",
   "dependencies": {
     "nunjucks": "^3.2.4"
   }
