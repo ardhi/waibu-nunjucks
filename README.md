@@ -1,8 +1,8 @@
-# wakatobi-nunjucks
+# waibu-nunjucks
 
-Plugin name: **wakatobiNunjucks**, alias: **wktbnunjucks**
+Plugin name: **waibuNunjucks**, alias: **wbnjk**
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/wakatobi-nunjucks) ![NPM Version](https://img.shields.io/npm/v/wakatobi-nunjucks)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/waibu-nunjucks) ![NPM Version](https://img.shields.io/npm/v/waibu-nunjucks)
 
 > <br />**Attention**: I do NOT accept any pull request at the moment, thanks!<br /><br />
 
@@ -13,10 +13,10 @@ Multi Pages App (MPA)'s Nunjucks View Engine support for [Bajo](https://github.c
 Goto your ```<bajo-base-dir>``` and type:
 
 ```bash
-$ npm install wakatobi-nunjucks
+$ npm install waibu-nunjucks
 ```
 
-Now open your ```<bajo-data-dir>/config/.plugins``` and put ```wakatobi-nunjucks``` in it
+Now open your ```<bajo-data-dir>/config/.plugins``` and put ```waibu-nunjucks``` in it
 
 ## Hooks
 

@@ -15,6 +15,7 @@
     "nunjucks",
     "view-engine",
     "view",
+    "waibu",
     "web",
     "webserver",
     "bajo",
