@@ -1,8 +1,8 @@
 import loader from '../lib/engine/loader.js'
 import extend from '../lib/engine/extend.js'
 
-async function render (tplFile, params, reply) {
-  await this.instance.render(tplFile, params)
+async function render (tpl, params, reply) {
+  await this.instance.render(`${tpl}:${reply.request.theme}`, params)
 }
 
 async function renderString (text, params = {}, opts = {}) {
