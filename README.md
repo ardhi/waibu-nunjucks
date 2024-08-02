@@ -20,8 +20,8 @@ Now open your ```<bajo-data-dir>/config/.plugins``` and put ```waibu-nunjucks```
 
 ## Hooks
 
-- ```bajoWebMpaNunjucks:afterBuildLocals (locals, req)```
-- ```bajoWebMpaNunjucks.<routeOpts.ns>:afterBuildLocals (locals, req)```
+- ```waibuNunjucks:afterBuildLocals (locals, req)```
+- ```waibuNunjucks.<routeOpts.ns>:afterBuildLocals (locals, req)```
 
 
 ## License
