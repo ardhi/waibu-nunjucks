@@ -1,7 +1,5 @@
-import qs from 'querystring'
-
 function qsStringify (env, obj) {
-  return qs.stringify(obj)
+  return this.app.waibu.qs.stringify(obj)
 }
 
 export default qsStringify
