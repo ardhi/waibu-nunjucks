@@ -1,6 +1,6 @@
 # waibu-nunjucks
 
-Plugin name: **waibuNunjucks**, alias: **wbnjk**
+Plugin name: **waibuNunjucks**, alias: **wnjk**
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/waibu-nunjucks) ![NPM Version](https://img.shields.io/npm/v/waibu-nunjucks)
 
