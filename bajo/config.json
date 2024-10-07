@@ -1,5 +1,4 @@
 {
-  "alias": "wnjk",
   "noCache": true,
   "dependencies": ["waibu-mpa"]
 }
