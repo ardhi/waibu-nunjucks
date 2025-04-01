@@ -1,5 +1,5 @@
 function omit (env, obj, params = []) {
-  const { omit } = this.app.bajo.lib._
+  const { omit } = this.lib._
   return omit(obj, params)
 }
 

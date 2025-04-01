@@ -1,5 +1,5 @@
 function tExists (env, key, opts = {}) {
-  const { isString } = this.app.bajo.lib._
+  const { isString } = this.lib._
   const { i18n, tpl } = env.ctx._meta
   if (!i18n) return false
   if (isString(opts)) opts = { ns: opts }

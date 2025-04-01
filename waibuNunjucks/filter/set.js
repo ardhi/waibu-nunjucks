@@ -1,5 +1,5 @@
 function set (env, obj = {}, key, def) {
-  const { set } = this.app.bajo.lib._
+  const { set } = this.lib._
   return set(obj, key, def)
 }
 

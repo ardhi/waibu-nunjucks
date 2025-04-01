@@ -1,5 +1,5 @@
 function getLocals (env, key) {
-  const { get } = this.app.bajo.lib._
+  const { get } = this.lib._
   if (!key) return env.ctx
   return get(env, `ctx.${key}`)
 }
