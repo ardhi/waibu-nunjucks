@@ -1,5 +1,5 @@
 function filter (env, obj, condition) {
-  const { filter } = this.lib._
+  const { filter } = this.app.lib._
   return filter(obj, condition)
 }
 
